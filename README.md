@@ -16,6 +16,5 @@ Open the project files or run the provided scripts. If unsure, check the reposit
 ## Contributing
 Feel free to open issues or submit pull requests. Keep the commits focused and add clear descriptions.
 
-## License
-Include a LICENSE file if you want to set a license. If none is present, contact the original author or add one before publishing.
+
 
